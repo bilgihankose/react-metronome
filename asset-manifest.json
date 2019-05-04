@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-metronome/static/css/main.95e79001.chunk.css",
+    "main.js": "/react-metronome/static/js/main.e78229a8.chunk.js",
+    "main.js.map": "/react-metronome/static/js/main.e78229a8.chunk.js.map",
+    "runtime~main.js": "/react-metronome/static/js/runtime~main.5d15dc4c.js",
+    "runtime~main.js.map": "/react-metronome/static/js/runtime~main.5d15dc4c.js.map",
+    "static/js/2.b7f52e28.chunk.js": "/react-metronome/static/js/2.b7f52e28.chunk.js",
+    "static/js/2.b7f52e28.chunk.js.map": "/react-metronome/static/js/2.b7f52e28.chunk.js.map",
+    "index.html": "/react-metronome/index.html",
+    "precache-manifest.1c610b09dd3c965b304f2de3fb1a3da2.js": "/react-metronome/precache-manifest.1c610b09dd3c965b304f2de3fb1a3da2.js",
+    "service-worker.js": "/react-metronome/service-worker.js",
+    "static/css/main.95e79001.chunk.css.map": "/react-metronome/static/css/main.95e79001.chunk.css.map",
+    "static/media/click1.wav": "/react-metronome/static/media/click1.7a7930a2.wav",
+    "static/media/click2.wav": "/react-metronome/static/media/click2.fe0ded65.wav"
+  }
+}
